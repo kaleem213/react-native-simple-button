@@ -8,7 +8,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <View>
-        <Text style={{fontWeight:'bold',fontSize:50,color:'blue'}}>
+        <Text style={{fontWeight:'bold',fontSize:50,color:'blue',marginBottom:40}}>
           button functionality
         </Text>
       </View>
