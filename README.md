@@ -2,7 +2,7 @@
 
 ## About The Project
 
-*Explain your project what this project is all about*
+*just a simple custom design button*
 
 ### Built With
 
