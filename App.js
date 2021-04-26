@@ -7,6 +7,11 @@ export default function App() {
   
   return (
     <View style={styles.container}>
+      <View>
+        <Text style={{fontWeight:'bold',fontSize:50,color:'blue'}}>
+          button functionality
+        </Text>
+      </View>
       <MyButtonHOD primary>Hello World</MyButtonHOD>
     </View>
   );
