@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
       },
     textWith:{
         color:'#fff',
-        fontWeight:'bold'
+        //fontWeight:'bold'
     },
     textWithout:{
         color:'#FFC0CB',
